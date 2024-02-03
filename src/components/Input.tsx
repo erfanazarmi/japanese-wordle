@@ -12,7 +12,7 @@ const Input = () => {
   const [done, setDone] = useState(false);
 
   useEffect(() => {
-    fetch('japanese-wordle/wordList.json')
+    fetch('https://raw.githubusercontent.com/erfanazarmi/japanese-wordle/master/public/wordList.json')
       .then(response => response.json())
       .then(data => setWordList(data))
   }, []);
