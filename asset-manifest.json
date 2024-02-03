@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/japanese-wordle/static/css/main.22ca2a82.css",
-    "main.js": "/japanese-wordle/static/js/main.ad1e71c2.js",
+    "main.js": "/japanese-wordle/static/js/main.c4d2435c.js",
     "static/js/787.b193086b.chunk.js": "/japanese-wordle/static/js/787.b193086b.chunk.js",
     "static/media/sakura.jpg": "/japanese-wordle/static/media/sakura.2c7f73af608ffb7c4f0c.jpg",
     "index.html": "/japanese-wordle/index.html",
     "main.22ca2a82.css.map": "/japanese-wordle/static/css/main.22ca2a82.css.map",
-    "main.ad1e71c2.js.map": "/japanese-wordle/static/js/main.ad1e71c2.js.map",
+    "main.c4d2435c.js.map": "/japanese-wordle/static/js/main.c4d2435c.js.map",
     "787.b193086b.chunk.js.map": "/japanese-wordle/static/js/787.b193086b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22ca2a82.css",
-    "static/js/main.ad1e71c2.js"
+    "static/js/main.c4d2435c.js"
   ]
 }
